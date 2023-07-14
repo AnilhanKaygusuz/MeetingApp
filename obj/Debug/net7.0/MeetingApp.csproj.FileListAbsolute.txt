@@ -1,0 +1,60 @@
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/appsettings.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/MeetingApp
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/MeetingApp.deps.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/MeetingApp.runtimeconfig.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/MeetingApp.dll
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/MeetingApp.pdb
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.csproj.AssemblyReference.cache
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.AssemblyInfo.cs
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.dll
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/refint/MeetingApp.dll
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.pdb
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.genruntimeconfig.cache
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/ref/MeetingApp.dll
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/obj/Debug/net7.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/libman.json
+/Users/ozgeozgun/Desktop/adsız klasör/MeetingApp/bin/Debug/net7.0/MeetingApp.staticwebassets.runtime.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\libman.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.exe
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.deps.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.runtimeconfig.json
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.dll
+C:\Users\Anıl\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.pdb
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.csproj.AssemblyReference.cache
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.AssemblyInfoInputs.cache
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.AssemblyInfo.cs
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.csproj.CoreCompileInputs.cache
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cache
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MeetingApp.props
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MeetingApp.props
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MeetingApp.props
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\scopedcss\bundle\MeetingApp.styles.css
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.dll
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\refint\MeetingApp.dll
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.pdb
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.genruntimeconfig.cache
+C:\Users\Anıl\Desktop\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
